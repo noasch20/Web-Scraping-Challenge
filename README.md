@@ -1,14 +1,14 @@
-## Mars Data Scraping and Analysis
+# Mars Data Scraping and Analysis
 
-# Overview
+## Overview
   This repository contains two Jupyter Notebooks designed to scrape, process, and analyze data related to Mars. The first notebook extracts news article titles and previews from a Mars news website, while the second notebook scrapes and analyzes Mars weather data from a static HTML table.
 
 ## Part 1: Scraping Mars News
 
-# Objective
+## Objective
   
   Extract the latest news article titles and previews from the Mars News website.
-# Steps
+## Steps
   
   Use automated browsing with Selenium to visit the Mars News website.
   
@@ -20,11 +20,11 @@
 
 ## Part 2: Scraping and Analyzing Mars Weather Data
 
-# Objective
+## Objective
   
   Scrape weather data from a Mars Temperature Data website and analyze key trends.
 
-# Steps
+## Steps
   
   Use automated browsing with Selenium to navigate to the weather data page.
   
